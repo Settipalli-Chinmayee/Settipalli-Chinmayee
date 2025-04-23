@@ -2,7 +2,9 @@
    Welcome to my GitHub profile! I'm a passionate and curious Full-Stack Developer with 1 years of hands-on experience building scalable and efficient web applications using the MERN stack.
 
 🛠️ Tech Stack & Skills
+
     - ⚛️ Frontend: React.js, Redux, HTML5, CSS3, JavaScript (ES6+)
+    
     - 🛠️ Backend: Node.js, Express.js, REST APIs
     - 💾 Database: MongoDB, Mongoose
     - 🧪 API Testing: Postman, Jest, Supertest
