@@ -4,7 +4,6 @@
 🛠️ Tech Stack & Skills
 
     - ⚛️ Frontend: React.js, Redux, HTML5, CSS3, JavaScript (ES6+)
-    
     - 🛠️ Backend: Node.js, Express.js, REST APIs
     - 💾 Database: MongoDB, Mongoose
     - 🧪 API Testing: Postman, Jest, Supertest
@@ -12,9 +11,10 @@
     - 📦 Other: JSON, JWT, OAuth, WebSockets, MVC Architecture
     
 🚀 What I Do
-   👨‍💻 Write clean, maintainable, and efficient code for both frontend and backend
-   🔍 Design and test RESTful APIs to ensure robustness and performance
-   🐳 Dockerize applications for seamless deployment and scalability
-   🛠️ Collaborate on full-stack projects with modern development practices
+
+   - 👨‍💻 Write clean, maintainable, and efficient code for both frontend and backend
+   - 🔍 Design and test RESTful APIs to ensure robustness and performance
+   - 🐳 Dockerize applications for seamless deployment and scalability
+   - 🛠️ Collaborate on full-stack projects with modern development practices
 
 📈 Stats & GitHub Goodies
