@@ -19,8 +19,8 @@
 
 📈 Stats & GitHub Goodies
 
-![Settipalli-Chinmayee GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Settipalli-Chinmayee](https://github-readme-stats.vercel.app/api?username=Settipalli-Chinmayee&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Settipalli-Chinmayee&layout=compact&theme=radical)
 
  📬 Let's Connect!
 
